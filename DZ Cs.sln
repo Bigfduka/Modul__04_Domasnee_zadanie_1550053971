@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Введение Классы", "DZ Cs\Введение Классы.csproj", "{3785A688-4F05-4E13-B726-9F6A13612B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dop,Met", "Dop,Met\Dop,Met.csproj", "{82291DEF-114A-417D-9AE8-6AE6FE8007EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3785A688-4F05-4E13-B726-9F6A13612B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3785A688-4F05-4E13-B726-9F6A13612B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3785A688-4F05-4E13-B726-9F6A13612B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3785A688-4F05-4E13-B726-9F6A13612B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82291DEF-114A-417D-9AE8-6AE6FE8007EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82291DEF-114A-417D-9AE8-6AE6FE8007EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82291DEF-114A-417D-9AE8-6AE6FE8007EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82291DEF-114A-417D-9AE8-6AE6FE8007EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72860A3D-EE9A-4B86-B870-4FCFCD11771D}
+	EndGlobalSection
+EndGlobal
